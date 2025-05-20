@@ -5,3 +5,5 @@ Coordinates for star and oval shape generated via Python script and initalized i
 # Video Demo:
 https://github.com/user-attachments/assets/64652ca7-f0de-4922-b8a4-bd8242e86551
 
+# ASMD of Bresenham's Line Algorithm:
+<img src="bresenhamASMD(2).jpg" alt="Sample Image" width="800" height="600">
