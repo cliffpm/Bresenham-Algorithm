@@ -1,5 +1,5 @@
 # Bresenham's Algorithm
-Implementation of Bresenham's Line Algorithm to display a line connecting from a beginning to a destination coordinate on a 640x480 VGA display monitor.
+Implementation of [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) to display a line connecting from a beginning to a destination coordinate on a 640x480 VGA display monitor.
 Coordinates for star and oval shape generated via Python script and initalized into a ROM that the algorithm reads from.
 
 # Video Demo:
