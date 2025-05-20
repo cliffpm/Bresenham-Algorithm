@@ -27,7 +27,5 @@ for i in range(len(points)):
     x0, y0 = points[i]
     x1, y1 = points[(i + 1) % len(points)]
     lines.append((x0, y0, x1, y1))
-
-# Output in Verilog-friendly format
 for i, (x0, y0, x1, y1) in enumerate(lines):
     print(f"{i}: x0={x0}, y0={y0}, x1={x1}, y1={y1}")
